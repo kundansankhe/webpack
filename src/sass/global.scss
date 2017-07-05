@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+    font-size: 14px;
+}
+
+
+#loader, #table{
+    margin: 10px 0;
+}
+#table{
+    display: none;
+    border: 1px solid #999;
+    td{
+        padding: 8px;
+
+    }
+}
